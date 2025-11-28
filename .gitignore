@@ -30,3 +30,9 @@ dist-ssr
 
 # Build output
 build
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
+
+# Extracted archives
+komposo-*/
